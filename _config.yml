@@ -1,0 +1,49 @@
+# Site settings
+title: "SOTM Asia 2024"
+email: ---
+description: "The OpenStreetMap conference. 2024 in Bangladesh & online."
+url: "https://bangladeshopeninnovationlab.github.io/sotmbd2024/" # the base hostname & protocol for your site
+twitter_username: state
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#fff'  # bedeff # 3cb9f7 # main: blue
+  primary-light: '#3C3C3C'  # f2bb40 # secondary: yellow
+  background-light: '#fff'      # bedeff
+  links: '#000' # 04065e # dark blue
+  links-light: '#fff'   # 2464aa # light-ish blue???
+  links-white: '#fff'
+  text: '#030304'
+  text-light: '#fff'
+
+# Settings for map tiles used in leaflet maps
+map_tiles:
+  url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
+  attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
+  maxZoom: 19
+
+# Repo files to not include in built site
+exclude:
+  - Dockerfile*
+  - docker-compose.*
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+permalink: /:title/
+relative_permalinks: false
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /:title/
+
+plugins:
+  - jekyll-gzip
+  # - jekyll-brotli
