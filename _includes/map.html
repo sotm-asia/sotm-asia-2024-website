@@ -1,0 +1,17 @@
+<div id="map" style="height:420px; width:100%"></div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var map = L.map('map').setView([-1.27903, 36.81649], {{ include.zoom }});
+    L.control.scale().addTo(map);
+    L.tileLayer('{{ site.map_tiles.url}}', {
+      attribution: '{{ site.map_tiles.attribution }}',
+      maxZoom: {{ site.map_tiles.maxZoom}}
+    }).addTo(map);
+    map.scrollWheelZoom.disable();
+    L.marker([21.415118740757826, 91.9819164276123], {icon: L.icon({
+      iconUrl: "{{ "/img/logo/sotmbd_2024-pin.svg" | prepend: site.baseurl }}",
+      iconSize: [60, 60],
+      iconAnchor: [30, 60]
+    })}).bindPopup("<h3>Cox's Bazar, Bangladesh</h3><p><a href='https://www.openstreetmap.org/?mlat=21.4150&mlon=91.9820#map=14/21.4150/91.9820' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
+  }, false);
+</script>
