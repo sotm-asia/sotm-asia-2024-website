@@ -18,8 +18,7 @@ State of the Map Asia, our annual gathering, welcomes all who are involved  with
 Each year, we receive more scholarship applications than we are able to support. To help us best allocate the funds, please specify the minimum types of support you need to attend. If you are requesting a travel grant, then tell us the amount of money to cover a portion of your travel and make a difference to attending or not. Please review our privacy policy covering how we will handle the information in your application.
 
 <h2 id="tips">Tips to help</h2>
-# Here are some tips to help you complete your application.
-
+## Here are some tips to help you complete your application.
 
 * The clarity and concise answers will be helpful. Keep sentences short.
 * Select  the minimum level of scholarship you need. This will help us to make  the best use of limited funds and enable more scholars to join.
@@ -52,7 +51,7 @@ Students, including PhD students, receive an extra point. You may be asked to pr
 
 <h2 id="apply"> How to Apply</h2>
 
-If you wish to be considered for a SotM Asia and Bangladesh 2024 travel grant, please fill out the **[application form](https://docs.google.com/forms/d/e/1FAIpQLSf4qIovKx5wRIvOzQodMGTu-XW2WX9FU6uM8aEAfEDTP55x9Q/viewform)**.
+If you wish to be considered for a SotM Asia and Bangladesh 2024 travel grant, please fill out the **[<font color=blue>application form</font>](https://docs.google.com/forms/d/e/1FAIpQLSf4qIovKx5wRIvOzQodMGTu-XW2WX9FU6uM8aEAfEDTP55x9Q/viewform)**.
 
 
 All data will be held confidential and only used for assessing TGP applications. Please ensure that the email address that you provide is regularly monitored, as the selection committee may wish to seek clarification of responses. If no replies have been provided to requests via mail for the Travel Grant Committee within 3 days, the Travel Grant will be removed from you and assigned to the next applicants in the ranking.
@@ -63,4 +62,4 @@ The selection committee will aim to notify recipients of grants by the mid of Oc
 
 Stay tuned to know more about the news and the events of State of the Map 2024! See you in Cox's Bazar and online.
 
-## The State of the Map Asia and Bangladesh 2024 Organizing Committee
+## The State of the Map Asia and Bangladesh 2024 Organizing Committee.
