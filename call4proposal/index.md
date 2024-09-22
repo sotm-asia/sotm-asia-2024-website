@@ -11,8 +11,7 @@ headings: "call,tracks,Submission,Spontaneously,Rating,Language,Modality,Scholar
 | Object    | Time |
 | -------- | ------- |
 | Open call for Abstract/proposal  | From 21/09/2024 to 08/10/2024 23:59 UTC |
-| Review | from 09/10/2024
-to 13/10/2024     |
+| Review | from 09/10/2024 to 13/10/2024     |
 | Announce accepted Abstract/proposal    |  15/10/2024   |
 | SotM program    | 30/11/2024 & 01/12/2024    |
 
@@ -45,7 +44,7 @@ Examples for this kind of talk are: Explaining the OSM data model. Introduction 
 
 ## Community and Foundation
 
-Want to recount your experiences while building a community? Or talk about the vision of OSMF? Or maybe discuss the strategy of the Board? Then this is the right track for you. Reflections on community diversity and questions on etiquette are also suitable. Other possible topics include why to become an OSMF member, working group experiences, and everything related to OSMF and the OSM communities.
+Want to recount your experiences while building a community? Then this is the right track for you. Reflections on community diversity and questions on etiquette are also suitable. Other possible topics include why to become an OSM member, working group experiences, and everything related to OSM communities.
 
 ## Mapping
 
@@ -83,7 +82,7 @@ Workshops will be held either in-person or virtually, not with a mixed audience.
 Panels are for hot, controversial discussions around OSM community, mapping and data. Topics may cover for example diversity, legal questions or the future of the data model. You should outline the format on how you intend to organise the discussion and make sure to invite the key players for the discussion. Panels must be held in person with all participants present at the conference. We welcome panels that include the audience. Just keep in mind that questions come from virtual and in-person participants. A designated moderator is therefore strongly recommended.
 
 ## Other
-Your submission does not fit into any of these submission types? Please get in touch with the program committee via email (sotmbd@gmail.com or stateofthemapasia@gmail ) before the end of the call for participation.
+Your submission does not fit into any of these submission types? Please get in touch with the program committee via email ([stateofthemapasia@gmail.com](mailto:stateofthemapasia@gmail.com) or [sotmbd@gmail.com](mailto:sotmbd@gmail.com) ) before the end of the call for participation.
 
 <h2 id='Spontaneously'> Spontaneously Organized Sessions</h2>
 We plan to provide space for sessions which cannot be submitted in advance. Details will be announced before the conference.
@@ -127,22 +126,20 @@ Network with other attendees and build connections far & beyond the local commun
 We eagerly anticipate receiving your abstracts and making SotM Asia 2024 and SotM Bangladesh 2024 an enriching and informative event!
 
 <h2 id='Scholarships'> Scholarships</h2>
-State of the Map Asia and State of the Map Bangladesh is a non-commercial event driven by the community, where no organizers, participants or speakers are reimbursed for their roles in the event. Though several scholarships are provided to those who face difficulty in attending the event but come up with excellent activities. Our call for the scholarship can be found in the given link below who wish to apply for funding to attend the programs.
+State of the Map Asia and State of the Map Bangladesh is a non-commercial event driven by the community, where no organizers, participants or speakers are reimbursed for their roles in the event. Though several scholarships are provided to those who face difficulty in attending the event but come up with excellent activities. Our call for the scholarship can be found in the **given link below** who wish to apply for funding to attend the programs.
 
 ## How to Submit a Proposal:
 
 Submission for abstract is Open now!!
 
-Submit your **[FORM HERE](https://docs.google.com/forms/d/e/1FAIpQLSfTcJDMwyhM9qrwB9aKB4-ig6BzQv6PtdFOXC1h1On6xqdSwQ/viewform)**
+Submit your **[<font color="blue">FORM HERE</font>](https://docs.google.com/forms/d/e/1FAIpQLSfTcJDMwyhM9qrwB9aKB4-ig6BzQv6PtdFOXC1h1On6xqdSwQ/viewform)**
 
-* You might be required to submit your full presentation or content prior to the event, while asked by the program organizer team.
+**<font color="red">You might be required to submit your full presentation or content prior to the event, while asked by the program organizer team.</font>**
 
-For any queries mail to:[sotmbd@gmail.com](mailto:sotmbd@gmail.com) ; [stateofthemapasia@gmail.com](mailto:stateofthemapasia@gmail.com)
+For any queries mail to:[stateofthemapasia@gmail.com](mailto:stateofthemapasia@gmail.com); [sotmbd@gmail.com](mailto:sotmbd@gmail.com).
 
-For more information:
-
-Visit the SotM Bangladesh 2024 website: [https://sotmbd.org](https://sotmbd.org)
-Visit the SotM Asia 2024 website: [https://stateofthemap.asia](https://stateofthemap.asia)
-
-Follow us on social media: [Facebook](https://www.facebook.com/SotmAsia/). [Twitter](https://x.com/sotmasia), and [LinkedIn](#)
+**For more information:**<br />
+Visit the SotM Bangladesh 2024 website: [https://sotmbd.org](https://sotmbd.org)<br />
+Visit the SotM Asia 2024 website: [https://stateofthemap.asia](https://stateofthemap.asia)<br />
+Follow us on social media: [Facebook](https://www.facebook.com/SotmAsia/). [Twitter](https://x.com/sotmasia). [Telegram](https://t.me/+nUCQpqtFzy84ZmY1)
 
