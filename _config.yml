@@ -1,10 +1,10 @@
 # Site settings
 title: "SOTM Asia 2024"
-email: ---
-description: "The OpenStreetMap conference. 2024 in Bangladesh & online."
-url: "https://bangladeshopeninnovationlab.github.io/sotmbd2024/" # the base hostname & protocol for your site
-twitter_username: state
-github_username:  jekyll
+email: "stateofthemapasia@gmail.com"
+description: "The OpenStreetMap Asia conference. 2024 in Bangladesh & online."
+url: "https://stateofthemap.asia/" # the base hostname & protocol for your site
+developer: Atikur Rahman
+github_username:  arahmandc
 
 # Build settings
 markdown: kramdown
