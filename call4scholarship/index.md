@@ -2,7 +2,7 @@
 layout: page-with-toc
 color: purple
 title: Call for Scholarship
-headings: "tips,Selection,apply"
+headings: "tips,Selection,apply,Travel"
 ---
 
 
@@ -56,7 +56,12 @@ If you wish to be considered for a SotM Asia and Bangladesh 2024 travel grant, p
 
 All data will be held confidential and only used for assessing TGP applications. Please ensure that the email address that you provide is regularly monitored, as the selection committee may wish to seek clarification of responses. If no replies have been provided to requests via mail for the Travel Grant Committee within 3 days, the Travel Grant will be removed from you and assigned to the next applicants in the ranking.
 
-Applications must be received by October 12, 2024.
+<h2 id="Travel">Travel Support</h2>
+## Non- Bangladeshi: Request for Travel Support
+
+This form is intended for non-Bangladeshi individuals seeking to obtain necessary travel support documents for their visit to Bangladesh. The documents will assist in facilitating smooth entry and stay in the country. Please fill out **[<font color=blue>the form</font>](https://docs.google.com/forms/d/e/1FAIpQLSeJLz7TFtz8aE5BacbBUEvanUEOSLPhKRbADcFIJPQCAFXa0g/viewform)**.
+
+**Applications must be received by October 12, 2024.**
 
 The selection committee will aim to notify recipients of grants by the mid of October 2024.
 

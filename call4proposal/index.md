@@ -126,7 +126,7 @@ Network with other attendees and build connections far & beyond the local commun
 We eagerly anticipate receiving your abstracts and making SotM Asia 2024 and SotM Bangladesh 2024 an enriching and informative event!
 
 <h2 id='Scholarships'> Scholarships</h2>
-State of the Map Asia and State of the Map Bangladesh is a non-commercial event driven by the community, where no organizers, participants or speakers are reimbursed for their roles in the event. Though several scholarships are provided to those who face difficulty in attending the event but come up with excellent activities. Our call for the scholarship can be found in the **given link below** who wish to apply for funding to attend the programs.
+State of the Map Asia and State of the Map Bangladesh is a non-commercial event driven by the community, where no organizers, participants or speakers are reimbursed for their roles in the event. Though several scholarships are provided to those who face difficulty in attending the event but come up with excellent activities. Our call for the scholarship can be found in the **<a href="/call4scholarship">given link below</a>** who wish to apply for funding to attend the programs.
 
 ## How to Submit a Proposal:
 
