@@ -75,7 +75,7 @@ The clean blue sea water full of coral stones and coconut trees will make you fe
 
 
 
-{% include hotel.html zoom="3" %}
+
 
 
 
