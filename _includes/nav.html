@@ -11,105 +11,34 @@
             </div>
 
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
+                <div class="nav navbar-nav">
+
                     <li class="hidden">
                         <a class="page-scroll" href="#page-top"></a>
                     </li>
 
+                  <li><a class="{% if page.url contains '/about' %}active{% endif %}" href="{{site.baseurl}}/about">About</a></li>
+                  <li class="nav-item dropdown btn-hover navbar-main-collapse">
+                      <a class="nav-link page-scroll" data-toggle="dropdown" href="">Conference <i class="icon down animated"></i></a>
+                      <ul class="nav navbar-nav dropdown-menu">
+                         <li><a class="{% if page.url contains '/call4proposal' %}active{% endif %}" href="{{site.baseurl}}/call4proposal">Call for Proposal</a></li>
+                         <li><a class="{% if page.url contains '/call4scholarship' %}active{% endif %}" href="{{site.baseurl}}/call4scholarship">Call for Scholarship</a></li>
+                         <li><a class="{% if page.url contains '/share_ur_story' %}active{% endif %}" href="{{site.baseurl}}/share_ur_story">Share Your Story</a></li>
+                         <li><a class="{% if page.url contains '/call4poster' %}active{% endif %}" href="{{site.baseurl}}/call4poster">Call for Posters</a></li>
+                      </ul>
+                  </li>
+                  <li class="nav-item dropdown btn-hover navbar-main-collapse">
+                    <a class="nav-link page-scroll" data-toggle="dropdown" href="">Cox's Bazar <i class="icon down animated"></i></a>
+                    <ul class="nav navbar-nav dropdown-menu">
+                       <li><a class="{% if page.url contains '/coxsbazar' %}active{% endif %}" href="{{site.baseurl}}/coxsbazar">Venue</a></li>
+                       <li><a class="{% if page.url contains '/transport' %}active{% endif %}" href="{{site.baseurl}}/transport">Transportation</a></li>
+                    </ul>
+                </li>
+
+                  <!-- <li><a class="{% if page.url contains '/coxsbazar' %}active{% endif %}" href="{{site.baseurl}}/coxsbazar"> &amp; </a></li> -->
 
 
-                    <li><a class="{% if page.url contains '/about' %}active{% endif %}" href="{{site.baseurl}}/about">About</a></li>
 
-                    <li><a class="{% if page.url contains '/coxsbazar' %}active{% endif %}" href="{{site.baseurl}}/coxsbazar">Cox's Bazar</a></li>
-
-                    <li>
-                        <a class="{% if page.url contains '/call4proposal' %}active{% endif %}" href="{{site.baseurl}}/call4proposal">Call for Proposal</a>
-                    </li>
-                    <li>
-                        <a class="{% if page.url contains '/call4scholarship' %}active{% endif %}" href="{{site.baseurl}}/call4scholarship">Call for Scholarship</a>
-                    </li>
-                   <!--  <li>
-                        <a class="{% if page.url contains '/travel_grant_programme' %}active{% endif %}" href="{{site.baseurl}}/calls/travel_grants">Travel Grants</a>
-                    </li>
-                    <li>
-                        <a class="{% if page.url contains '/calls/posters' %}active{% endif %}" href="{{site.baseurl}}/calls/posters">Call for Posters</a>
-                    </li>
-                    <li>
-                        <a class="{% if page.url contains '/calls/translators' %}active{% endif %}" href="{{site.baseurl}}/calls/translators">Call for Translators</a>
-                    </li>
-                    <li>
-                        <a href="https://blog.openstreetmap.org/2020/01/18/sotm2020-applications-for-scholarships-open/">Apply for Scholarship</a>
-                    </li>
-                    <li>
-                        <a class="{% if page.url contains '/tickets' %}active{% endif %}" href="{{site.baseurl}}/tickets/">Tickets</a>
-                    </li>
-
-                    <li>
-                        <a class="{% if page.url contains '/stream' %}active{% endif %}" href="{{site.baseurl}}/stream/">Live Stream</a>
-                    </li> -->
-
-                    <!--<li>
-                      {% if page.role == 'index' %}
-                        <a class="page-scroll" href="#streaming">Videos</a>
-                      {% else %}
-                        <a class="" href="{{site.baseurl}}/#streaming">Videos</a>
-                      {% endif %}
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/programme' %}active{% endif %}" href="{{site.baseurl}}/programme/">Programme</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/academic_programme' %}active{% endif %}" href="{{site.baseurl}}/academic_programme/">Academic Programme</a>
-                    </li>-->
-                    <!--<li>
-                      <a class="{% if page.url contains '/posters' %}active{% endif %}" href="{{site.baseurl}}/posters">Posters</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/events' %}active{% endif %}" href="{{site.baseurl}}/events/">Social Event</a>
-                    </li>-->
-                    <!--<li>
-                      <a href="https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022/registration_lightning_talks">Call for Lightning Talks</a>
-                    </li>-->
-                    <!-- <li>
-                        <a class="{% if page.url contains '/venue' %}active{% endif %}" href="{{site.baseurl}}/venue/">Bangladesh</a>
-                    </li> -->
-                    <!--<li>
-                        <a class="{% if page.url contains '/faq' %}active{% endif %}" href="{{site.baseurl}}/faq/">FAQ</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/artwork' %}active{% endif %}" href="{{site.baseurl}}/artwork/">Artwork</a>
-                    </li>-->
-                    <!--<li>
-                      {% if page.role == 'index' %}
-                        <a class="page-scroll" href="#newsletter">Newsletter</a>
-                      {% else %}
-                        <a class="" href="{{site.baseurl}}/#newsletter">Newsletter</a>
-                      {% endif %}
-		    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/sponsoring' %}active{% endif %}" href="{{site.baseurl}}/sponsoring/">Sponsoring</a>
-                    </li>-->
-                    <!-- <li>
-                      {% if page.role == 'index' %}
-                        <a class="page-scroll" href="#about">About</a>
-                      {% else %}
-                        <a class="" href="{{site.baseurl}}/#about">About</a>
-                      {% endif %}
-                    </li> -->
-                    <!-- <li>
-                      {% if page.role == 'index' %}
-                        <a class="page-scroll" href="#sponsors">Sponsors</a>
-                      {% else %}
-                        <a class="" href="{{site.baseurl}}/#sponsors">Sponsors</a>
-                      {% endif %}
-                    </li> -->
-                    <!--<li>
-                        <a class="{% if page.url contains '/attending' %}active{% endif %}" href="{{site.baseurl}}/attending/">Attending</a>
-                    </li>-->
-                    <!--<li>
-                        <a class="{% if page.url contains '/codeofconduct' %}active{% endif %}" href="{{site.baseurl}}/codeofconduct">Code of conduct</a>
-                    </li>-->
-                </ul>
             </div>
         </div>
     </nav>
