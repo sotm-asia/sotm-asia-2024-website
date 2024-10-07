@@ -75,17 +75,10 @@ The clean blue sea water full of coral stones and coconut trees will make you fe
 <hr>
 <h2 id='accommodation'>Accommodations</h2>
 
+There are a lot of 5 star to non-star Hotel Motels around the SotM Asia 2024 Venue. It cost 20 to more than 1000 dollars per night. Some hotels have their own online booking system and some hotels can be booked by 3rd party booking system. Also if anyone wants to book a hotel after reaching Cox's Bazar he/she can.  but it depends on the vacancy.
 
 
-
-
-
-
-
-
-
-
-
+For any queries relating to accommodation, please contact Sawan Shahriar on +8801822844848 or sotmbd@gmail.com.
 
 <hr>
 <h2 id='transport'>Trasportation</h2>
@@ -99,11 +92,28 @@ The proposed venue is in the main hotel motel zone, making it within walking dis
       <div class='space-bottom2 clearfix'>
          <h2 class='space-bottom1'>Getting to Cox's Bazar</h2>
 
+         <p>Dhaka is the capital city and center point in Bangladesh. It is connected every big cities by roads. Cox's Bazar is the last district of the south in country. Bus,Train,Air all ways is connected Dhaka to Cox's Bazar.</p>
+
         <h3>Air travel</h3>
+        <ul>
+        <li><a href="https://www.hsia.gov.bd/" style="text-decoration:none; color:blue">Hazrat Shahjalal International Airport :</a> The main international airpor in Dhaka, Bangladesh.</li>
+        <li><a href="https://en.wikipedia.org/wiki/Cox%27s_Bazar_Airport" style="text-decoration:none; color:blue">Cox's Bazar Airport :</a> is an domestic airport in the resort town of Cox's Bazar in Bangladesh. The aerial distance between Dhaka and Cox's Bazar is 309 kilometers. A flight from Dhaka (DAC) to Cox's Bazar (CXB) takes about 1 hour and 12 minutes.
+        </li>
+        <li>Cox's Bazar Airport is approx 3.5 Km  distance between Vanue.</li>
+        </ul>
 
         <h3>Train</h3>
+        <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Cox%27s_Bazar_railway_station" style="text-decoration:none; color:blue">Cox's Bazar railway station :</a> The main and only railway station in Cox's Bazar. It is approx 8 Km distance between Vanue.</li>
+        </ul>
 
         <h3>Bus</h3>
+        <ul>
+        <li><span style=" color:blue;">Sugondha Bus Stand</span> in Cox's Bazar is approx 1 Km distance between Vanue.</li>
+        <li><span style=" color:blue;">Kolatoli Bus Stand</span> in Cox's Bazar is approx 2 Km distance between Vanue.</li>
+        <li><span style=" color:blue;">Cox's Bazar Central Bus Terminal</span> in Cox's Bazar is approx 4.5 Km distance between Vanue.</li>
+        <li><span style=" color:blue;">Laldighi Bus Stand</span> in Cox's Bazar is approx 2.5 Km distance between Vanue.</li>
+        </ul>
 
       </div>
   </div>
@@ -112,8 +122,13 @@ The proposed venue is in the main hotel motel zone, making it within walking dis
       <div class='space-bottom2 clearfix'>
          <h2 class='space-bottom1'>How to reach the venue</h2>
 
+<p>The easiest way to to reach <a href="https://en.m.wikipedia.org/wiki/Cox%27s_Bazar" style="text-decoration:none; font-weight: bold; color:blue">Cox's Bazar</a> is to take the Bus/Airoplane/Train from <a href="https://en.wikipedia.org/wiki/Dhaka" style="text-decoration:none; font-weight: bold; color:blue">Dhaka</a> to Cox's Bazar.</p> <br />
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/sotm_asia_2024_1123534?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/sotm_asia_2024_1123534?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
+
       </div>
    </div>
+
+
 
 <hr>
 
