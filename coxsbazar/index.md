@@ -24,24 +24,24 @@ Cox's Bazar, unquestionably the most renowned destination in Bangladesh, is famo
 Cox’s Bazar is termed one of the most attractive places for tourists, and people from across the country come to visit this mother nature. If we wish to list all the places in Cox’s Bazar, the list will not end, but here are some must-visit spots.
 
 ### **Inani Beach**
-Inani Beach is located distanced 25 kilometers from the main town of Cox’s Bazar, and the whole beach is 18 kilometers long. You can reach this magnificent view just with the help of a car, CNG, and Jeep in under 30 – 40 minutes.![Inani]({{'/img/sight/inani-beach.jpg'| relative_url}}){: .mx-auto.d-block :} The beach is filled with lots of coral stones, practically located in a combination of black and green colors. These stones are very sharp, so we’d suggest being careful.
+![Inani]({{'/img/sight/inani-beach.jpg'| relative_url}}){: .mx-auto.d-block :}
+Inani Beach is located distanced 25 kilometers from the main town of Cox’s Bazar, and the whole beach is 18 kilometers long. You can reach this magnificent view just with the help of a car, CNG, and Jeep in under 30 – 40 minutes. The beach is filled with lots of coral stones, practically located in a combination of black and green colors. These stones are very sharp, so we’d suggest being careful.
 
 The water of Inani beach is very clean compared to the local beaches in the main town of Cox’s Bazar, which is the main reason people enjoy swimming and bathing. Furthermore, the sunset view of Inani beach is magnificent, we’d suggest taking a camera to capture some of the precious natural moments.
 
 ### **Himchori**
-
-<img src="/img/sight/himchori-mountain.jpg" style="float:left; height:180px; padding:5px"> While traveling to the beautiful Himchori mountain, you would have to go through beautiful Marine Drive. Once you reach this place, your vision will be totally hypnotized.
+![Himchori]({{'/img/sight/himchori-mountain.jpg'| relative_url}}){: .mx-auto.d-block :}
+While traveling to the beautiful Himchori mountain, you would have to go through beautiful Marine Drive. Once you reach this place, your vision will be totally hypnotized.
 
 People are often mesmerized by its beauty. The hills are located on one side of the road while the other side takes up the whole beach. The waterfall is seen mainly during the rainy season.
 
 ### **100 Feet Buddha Statue**
-
-If you are a fan of stone arts, you can drive to Vimukti Bibeshan Bhabna Kendra temple in Ramu to visit the 100 feet of Buddha Stone. Local people and tourists admire this golden color Buddha monument.<img src="/img/sight/buddha-statue.jpg" style="float:right; height:180px; padding:5px">
+![buddha-statue]({{'/img/sight/buddha-statue.jpg'| relative_url}}){: .mx-auto.d-block :}
+If you are a fan of stone arts, you can drive to Vimukti Bibeshan Bhabna Kendra temple in Ramu to visit the 100 feet of Buddha Stone. Local people and tourists admire this golden color Buddha monument.
 The temple and its surroundings provide a serene and tranquil environment. Many people visit this spot daily to admire the magnificent monument or for religious reasons.
 
 ### **Marine Drive**
-
-<img src="/img/sight/marine-drive.jpg" style="float:left; height:180px; padding:5px">
+![marineDrive]({{'/img/sight/marine-drive.jpg'| relative_url}}){: .mx-auto.d-block :}
 This route runs along the Bay of Bengal for approx 100 kilometers from Cox’s Bazar to Teknaf. It was built by the Bangladesh Army and opened as the world’s longest marine drive on May 6, 2017.
 
 
@@ -49,13 +49,15 @@ This route runs along the Bay of Bengal for approx 100 kilometers from Cox’s B
 
 ### **Bangabandhu Safari Park**
 
-<img src="/img/sight/bangabandhu-safari-park.jpg" style="float:right; height:180px; padding:5px">The Dulahazira Safari Park, also known as Bangabandhu Safari Park, is developed under 9 square kilometers of the area at Chakaria Upazilla, Cox’s Bazar.
+![safari]({{'/img/sight/bangabandhu-safari-park.jpg'| relative_url}}){: .mx-auto.d-block :}
+The Dulahazira Safari Park, also known as Bangabandhu Safari Park, is developed under 9 square kilometers of the area at Chakaria Upazilla, Cox’s Bazar.
 
 It is the home of around 4000 animals with 165 different species. If you want your children to get familiar with the wildlife, this is the place.
 
 
 ### **Maheshkhali Island**
-<img src="/img/sight/Moheskhali-Island.jpg" style="float:left; height:180px; padding:5px">Moheshkhali is an island which is quite hilly and fringed
+![Moheskhali]({{'/img/sight/Moheskhali-Island.jpg'| relative_url}}){: .mx-auto.d-block :}
+Moheshkhali is an island which is quite hilly and fringed
 with mangroves. You will enjoy the simplicity of the
 island and the lifestyle of the people. This island is also
 famous for salt production. Adinath temple is a famous
@@ -65,7 +67,7 @@ devotees congregate on an annual occasion.
 
 ### **Saint Martin’s Island**
 
-<img src="{{ /img/sight/saint-martin-island.jpg }}" style="float:right; height:180px; padding:5px">
+![saintMartin]({{'/img/sight/saint-martin-island.jpg'| relative_url}}){: .mx-auto.d-block :}
 The clean blue sea water full of coral stones and coconut trees will make you feel like you are the king of your world.
 
 3 to 4 hours of journey by boat from Teknaf will take you to the most beautiful place in Cox’s Bazar.
