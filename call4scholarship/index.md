@@ -42,7 +42,7 @@ Details of their past contributions to OpenStreetMap projects or community activ
 ## First State of the Map Asia:
 Applicants that attend SotM for the first time receive an extra point.
 
-## Gender and Minorities:
+## Diversity and Inclusion:
 In order to create a more diverse community, women and applicants from other underrepresented groups will receive an extra point.
 
 ## Students:
