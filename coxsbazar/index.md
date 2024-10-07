@@ -24,7 +24,7 @@ Cox's Bazar, unquestionably the most renowned destination in Bangladesh, is famo
 Cox’s Bazar is termed one of the most attractive places for tourists, and people from across the country come to visit this mother nature. If we wish to list all the places in Cox’s Bazar, the list will not end, but here are some must-visit spots.
 
 ### **Inani Beach**
-Inani Beach is located distanced 25 kilometers from the main town of Cox’s Bazar, and the whole beach is 18 kilometers long. You can reach this magnificent view just with the help of a car, CNG, and Jeep in under 30 – 40 minutes.![Inani]('/img/sight/inani-beach.jpg'){: .mx-auto.d-block :} The beach is filled with lots of coral stones, practically located in a combination of black and green colors. These stones are very sharp, so we’d suggest being careful.
+Inani Beach is located distanced 25 kilometers from the main town of Cox’s Bazar, and the whole beach is 18 kilometers long. You can reach this magnificent view just with the help of a car, CNG, and Jeep in under 30 – 40 minutes.![Inani]({{'/img/sight/inani-beach.jpg'| relative_url}}){: .mx-auto.d-block :} The beach is filled with lots of coral stones, practically located in a combination of black and green colors. These stones are very sharp, so we’d suggest being careful.
 
 The water of Inani beach is very clean compared to the local beaches in the main town of Cox’s Bazar, which is the main reason people enjoy swimming and bathing. Furthermore, the sunset view of Inani beach is magnificent, we’d suggest taking a camera to capture some of the precious natural moments.
 
@@ -65,7 +65,7 @@ devotees congregate on an annual occasion.
 
 ### **Saint Martin’s Island**
 
-<img src="/img/sight/saint-martin-island.jpg" style="float:right; height:180px; padding:5px">
+<img src="{{ /img/sight/saint-martin-island.jpg }}" style="float:right; height:180px; padding:5px">
 The clean blue sea water full of coral stones and coconut trees will make you feel like you are the king of your world.
 
 3 to 4 hours of journey by boat from Teknaf will take you to the most beautiful place in Cox’s Bazar.
@@ -88,27 +88,14 @@ The clean blue sea water full of coral stones and coconut trees will make you fe
 <hr>
 <h2 id='transport'>Trasportation</h2>
 
-<div class="row">
-  <div class="column">
-    <img src="/img/Coxs_Tourist_bus.jpg" style="hight:300px">
-  </div>
-  <div class="column">
-    <img src="/img/800px-Airport.jpg"  style="hight:300px">
-  </div><br/>
-  <div class="column">
-    <img src="/img/800px-Railstation1.jpg" style="hight:300px" >
-  </div>
-  <div class="column">
-    <img src="/img/794px-Transport_coxs.jpg" style="hight:300px">
-  </div>
-</div>
+![transport]({{'/img/transport.jpg'| relative_url}})
 <h2 id='transportation'>Public transportation</h2>
 The proposed venue is in the main hotel motel zone, making it within walking distance from any of the accommodations within the city. One can easily use the footpaths, beachways, and marine drives to get to the venue. The common and necessary local transportation options include CNG (tuk-tuks), rickshaws, and TomToms (electric buggies), which are particularly popular with tourists because of their accessibility and convenience. Bicycle and bike rental services are now also available in the city, but they are more to be used for exploring the picturesque marine drive and the different beaches throughout the coast.
 
 
    <div class='col12  keyline-bottom-thick contain space-top4'>
       <div class='space-bottom2 clearfix'>
-         <h2 class='space-bottom1'>Getting to Dhaka</h2>
+         <h2 class='space-bottom1'>Getting to Cox's Bazar</h2>
 
         <h3>Air travel</h3>
 
