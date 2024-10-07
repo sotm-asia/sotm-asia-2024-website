@@ -24,7 +24,7 @@ Cox's Bazar, unquestionably the most renowned destination in Bangladesh, is famo
 Cox’s Bazar is termed one of the most attractive places for tourists, and people from across the country come to visit this mother nature. If we wish to list all the places in Cox’s Bazar, the list will not end, but here are some must-visit spots.
 
 ### **Inani Beach**
-Inani Beach is located distanced 25 kilometers from the main town of Cox’s Bazar, and the whole beach is 18 kilometers long. You can reach this magnificent view just with the help of a car, CNG, and Jeep in under 30 – 40 minutes.![Inani](/img/sight/inani-beach.jpg){: .mx-auto.d-block :} The beach is filled with lots of coral stones, practically located in a combination of black and green colors. These stones are very sharp, so we’d suggest being careful.
+Inani Beach is located distanced 25 kilometers from the main town of Cox’s Bazar, and the whole beach is 18 kilometers long. You can reach this magnificent view just with the help of a car, CNG, and Jeep in under 30 – 40 minutes.![Inani]('/img/sight/inani-beach.jpg'){: .mx-auto.d-block :} The beach is filled with lots of coral stones, practically located in a combination of black and green colors. These stones are very sharp, so we’d suggest being careful.
 
 The water of Inani beach is very clean compared to the local beaches in the main town of Cox’s Bazar, which is the main reason people enjoy swimming and bathing. Furthermore, the sunset view of Inani beach is magnificent, we’d suggest taking a camera to capture some of the precious natural moments.
 
