@@ -8,14 +8,14 @@ headings: "call,tracks,Submission,Spontaneously,Rating,Language,Modality,Scholar
 
 ## Deadlines
 
-| Object    | Time |
+<!-- | Object    | Time |
 | -------- | ------- |
 | Open call for Abstract/proposal  | From 21/09/2024 to 08/10/2024 23:59 UTC |
 | Review | from 09/10/2024 to 13/10/2024     |
 | Announce accepted Abstract/proposal    |  15/10/2024   |
-| SotM program    | 30/11/2024 & 01/12/2024    |
+| SotM program    | 30/11/2024 & 01/12/2024    | -->
 
-
+**October 22, 2024, 23:59:59 UTC**
 
 
 <h2 id="call">Call for Participation</h2>
