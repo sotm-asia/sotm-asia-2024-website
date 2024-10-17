@@ -5,8 +5,15 @@ title: Call for Poster
 headings: ""
 ---
 
-## Call for Poster
 
+
+
+
+# Call for Posters Now Part of the Exciting GISDay 2024 & OSM Geo Awareness Week Celebration!
+
+![Call for Poster]({{'/img/cop.png'| relative_url}}){: .mx-auto.d-block :}
+
+## Call for Poster
 State of the Map (SotM) Asia 2024, State of the Map Bangladesh 2024 and YouthMappers Bangladesh Summit 2024 invites you to showcase your OpenStreetMap (OSM) projects, research, and community efforts through posters. This conference is an excellent platform for sharing innovative uses of OSM data, technical developments, and community stories within the Asia region.
 
 ## Submission requirements
