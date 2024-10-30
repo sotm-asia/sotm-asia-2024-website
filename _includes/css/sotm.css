@@ -1277,6 +1277,7 @@ img {vertical-align: middle;}
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
+  clear: both;
   display: table;
 }
 
