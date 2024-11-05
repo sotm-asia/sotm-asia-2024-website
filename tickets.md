@@ -9,4 +9,4 @@ headings: ""
 
 ![sotm]({{'/img/tickets.png'| relative_url}})
 
-<h1 style=" color:blue;"> Registration will open on 5th November 2024 </h1>
+<h1 style=" color:blue;"> Registration will open on 6th November 2024 </h1>
