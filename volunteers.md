@@ -6,13 +6,14 @@ headings: ""
 
 ## About
 
-As you know, ’State of the Map Asia’, 'State of the Map Bangladesh' and 'YouthMappers Bangladesh Summit' is a non-profit event, and for organizational purposes we need people who can help us on a volunteer basis.
-For volunteers from outside Cox's Bazar, a limited accommodation and transportation will be available. During the event, we will need volunteers who will be ready to support us in Cox's Bazar— mainly on the premises of the conference. (Unless other requirements are mentioned).
+As you know, ’State of the Map Asia’, 'State of the Map Bangladesh' and 'YouthMappers Bangladesh Summit' is a non-profit event, and for organizational purposes we need people who can help us on a volunteer basis.<br>
+
+For volunteers from outside Cox's Bazar, a limited accommodation or/and limited transportation will be available. During the event, we will need volunteers who will be ready to support us in Cox's Bazar— mainly on the premises of the conference. (Unless other requirements are mentioned).
 
 ## What do we offer in return?
 We offer volunteers:
 * Starter pack
-* Free meals
+* Free meals (during conference)
 * Resume certificate
 * Work in group
 * Great time spent
@@ -41,4 +42,4 @@ We will need help in the following areas:
 
 
 ## Become a volunteer
-If you want to participate in the organization of SotM Asia 2024, SotM Bangladesh 2024 and YMBD Summit 2024 as a volunteer, please fill in the **Application Form**. Also, feel free to ask us questions: sotmbd@gmail.com
+If you want to participate in the organization of SotM Asia 2024, SotM Bangladesh 2024 and YMBD Summit 2024 as a volunteer, please fill in the [<span style = "color:blue">**Application Form**</span>](https://docs.google.com/forms/d/e/1FAIpQLSfCdvoO_W3ymZmeuPCA70XyKBZPcxuSZ2vZuWC_mCGCpgSpvg/viewform). Also, feel free to ask us questions: sotmbd@gmail.com
