@@ -13,7 +13,7 @@ For volunteers from outside Cox's Bazar, a limited accommodation or/and limited 
 ## What do we offer in return?
 We offer volunteers:
 * Starter pack
-* Free meals **(during conference)**
+* Free meals (during conference)
 * Resume certificate
 * Work in group
 * Great time spent
