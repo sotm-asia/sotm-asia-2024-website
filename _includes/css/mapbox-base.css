@@ -573,7 +573,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .fill-white .pill > *       { border-color:#fff; }
 .fill-light .pill > *       { border-color:#f8f8f8; }
 /* deprecated, use fill-cyan */
-.fill-blue-light .pill > *  { border-color:#52a1d8;}
+.fill-blue-light .pill > *  { border-color:#037D52;}
 .fill-cyan .pill > *        { border-color:#3bb2d0;}
 .fill-blue .pill > *        { border-color:#3887be; }
 .fill-denim .pill > *       { border-color:#50667f; }
