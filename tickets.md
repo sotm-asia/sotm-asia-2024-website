@@ -38,7 +38,7 @@ Upay- 01822844848
 
 **Non-Bangladesh are requested to collect On Venue Fee Submission coupon code and complete this registration with the code. The team will contact them separately in this regard.**
 
-**Registration Deadline- November 16, 2024**
+**Registration Deadline- November 22, 2024**
 
 Registration Link- visit the [<span style= "color:blue" >**Submission Form**</span>](https://docs.google.com/forms/d/e/1FAIpQLSe0NMcVgq_simpI_wTY7huGItLYh6pH5eC4aJ4Ph99k-Rsmqw/viewform)
 
