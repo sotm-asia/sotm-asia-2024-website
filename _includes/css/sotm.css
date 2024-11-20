@@ -1091,6 +1091,13 @@ table.scheduleTable tr td.scheduleBreak {
   background-color: {{ site.color.primary-ar }};
 }
 
+table.scheduleTable tr td a{
+  text-decoration: none;
+  font-size: 15px;
+  color: #eb0808;
+
+}
+
 table.scheduleTable span.speaker,
 table.scheduleTable span.extraTag {
   letter-spacing: 0;
@@ -1099,7 +1106,7 @@ table.scheduleTable span.extraTag {
 
 table.scheduleTable span.speaker {
   margin-top: 5px;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 table.scheduleTable span.extraTag {
