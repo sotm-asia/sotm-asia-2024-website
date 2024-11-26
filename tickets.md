@@ -38,12 +38,12 @@ Upay- 01822844848
 
 **Non-Bangladesh are requested to collect On Venue Fee Submission coupon code and complete this registration with the code. The team will contact them separately in this regard.**
 
-**Registration Deadline- November 22, 2024**
+Online Registration is off now.
 
-Registration Link- visit the [<span style= "color:blue" >**Submission Form**</span>](https://docs.google.com/forms/d/e/1FAIpQLSe0NMcVgq_simpI_wTY7huGItLYh6pH5eC4aJ4Ph99k-Rsmqw/viewform)
+<span style= "color:blue">**In Venue Registration is open.**</span>
 
 Our official email is **stateofthemapasia@gmail.com**
 
 Our emergency what's app +8801822844848
 
-![payment]({{'/img/payment.png'| relative_url}})
+<!-- ![payment]({{'/img/payment.png'| relative_url}}) -->
