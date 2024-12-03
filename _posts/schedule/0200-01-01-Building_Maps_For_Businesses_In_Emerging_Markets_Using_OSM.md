@@ -18,6 +18,6 @@ tags:
   - slot3
   -
 slides: "/slides/Building_Maps_For_Businesses_In_Emerging_Markets_Using_OSMOSIS.pdf"
-youtube_recording: "X4BGOxvd-10"
+youtube_recording: "EMeHxxBBKus"
 ---
 

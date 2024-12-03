@@ -66,6 +66,7 @@ color: dark-nav
         {% if page.slides %}
         <div class='prose space-bottom2'>
           <a
+            style="text-decoration:none; color:red;"
             target="_blank"
             title="Open presentation slides"
             href="{{ page.slides }}">
@@ -78,12 +79,12 @@ color: dark-nav
 
 
       {% if page.category == 'lightning' %}
-        <a
+        <a style="text-decoration:none;"
           href='{{site.baseurl}}/lightning_talks/'
           class='button pad2x stroke icon prev space-top4 round-big'>Back to lightning talks</a>
 
       {% else %}
-        <a
+        <a style="text-decoration:none;"
 	    href='{{site.baseurl}}/program/'
           class='button pad2x stroke icon prev space-top4 round-big'>Back to program</a>
       {% endif %}
