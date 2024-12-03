@@ -36,14 +36,14 @@ exclude:
   - node_modules
   - vendor
 
-permalink: /:title/
-relative_permalinks: false
+permalink: /2024/:title/
 defaults:
   - scope:
       path: ""
       type: posts
     values:
-      permalink: /:title/
+      permalink: /2024/:title/
+
 
 plugins:
   - jekyll-gzip
