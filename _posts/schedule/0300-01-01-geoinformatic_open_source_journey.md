@@ -18,6 +18,6 @@ tags:
   - slot3
   -
 slides: "/slides/GEOINFORMATICS_bKash_Limited.pdf"
-youtube_recording: "EMeHxxBBKus"
+youtube_recording: "esSJqU3vjAA"
 ---
 
